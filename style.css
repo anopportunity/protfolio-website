@@ -30,3 +30,18 @@ footer {
   padding: 1rem;
   color: #ccc;
 }
+.social-links {
+  margin-top: 10px;
+}
+
+.social-links a {
+  color: #bbdefb;
+  text-decoration: none;
+  margin: 0 8px;
+  font-weight: bold;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+  color: #fff;
+}
